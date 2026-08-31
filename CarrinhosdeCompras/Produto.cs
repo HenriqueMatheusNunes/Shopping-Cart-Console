@@ -1,11 +1,10 @@
 ﻿public class Produto
 {
-
-   public  String Nome;
-   public  decimal Preco;
-
-
-
-
-
+    public String Nome;
+    public decimal Preco;
 }
+
+
+
+
+
